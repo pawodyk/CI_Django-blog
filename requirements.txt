@@ -1,2 +1,4 @@
 Django==1.11.21
+Pillow==4.3.0
+olefile==0.46
 pytz==2019.1
